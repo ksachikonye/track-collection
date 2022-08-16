@@ -1,0 +1,10 @@
+source,target,value
+Airway,Lung,4.7565
+Residual,Lung,1.4
+Trachea,Capillaries,0.536
+Capillaries,Lung,1.52
+Trachea,Lung,0.00035
+Airway,Trachea,1.596
+Wind,Airway,38.8
+Wind,Lung,2.296
+
